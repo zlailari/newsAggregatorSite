@@ -1,0 +1,42 @@
+div #login{
+ -moz-box-shadow: 0 0 10px #A2BFF4;
+ -webkit-box-shadow: 0 0 10px #A2BFF4;
+ box-shadow: 0 0 10px #A2BFF4;
+ background-color: white;
+ padding-bottom: 0px;
+ margin-bottom: 0px;
+ border-bottom: 0px;
+ display:inline;
+ color:#A2BFF4;
+}
+
+#login2
+{   
+   background-color: white;
+   margin: 2% 0 1% 5%;
+   padding: 1%;
+   color: #000;
+   width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  clear: both;
+  padding: 40px;
+  -moz-box-shadow: 0 0 1px #888;
+  -webkit-box-shadow: 0 0 1px #888;
+  box-shadow: 0 0 1px #888;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+ }
+ 
+ #main
+ {
+padding: 1%;
+ -moz-box-shadow: 0 0 10px #A2BFF4;
+ -webkit-box-shadow: 0 0 10px #A2BFF4;
+ box-shadow: 0 0 10px #A2BFF4;
+ background-color: white;
+ padding-bottom: 0px;
+ margin-bottom: 0px;
+ border-bottom: 0px;
+ }
